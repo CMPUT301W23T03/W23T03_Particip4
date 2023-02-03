@@ -1,7 +1,6 @@
 package com.example.w23t03_particip4;
 
-public abstract class Shape {
+public abstract class Shape_Khushi extends Shape {
     private int x;
     private int y;
-    String color = "master1blue";
 }
